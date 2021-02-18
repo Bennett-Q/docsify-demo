@@ -4,4 +4,4 @@
 
 访问地址 
 github: https://bennett-q.github.io/docsify-demo/#/
-码云gitee：https://bennett_q.gitee.io/docsify-demo/#/
+码云gitee：https://bennett-q.gitee.io/docsify-demo/#/
